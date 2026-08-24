@@ -22,7 +22,7 @@ $manifestContent = @'
 {
   "name": "MagicBullet",
   "version_number": "1.2.0",
-  "website_url": "https://github.com",
+  "website_url": "https://github.com/Caijue117/HowToFish-MagicBullet",
   "description": "Silent Aim / Magic Bullet with forced headshots, target prediction, FOV circle, and lock-ray for How to Fish. (Created with AI assistance).",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2305"
