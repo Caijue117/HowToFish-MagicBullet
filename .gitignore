@@ -1,0 +1,42 @@
+﻿# Build outputs
+[Bb]in/
+[Oo]bj/
+*.dll
+*.pdb
+*.exe
+
+# Game references and dependencies (NEVER commit game/BepInEx binaries)
+references/
+Assembly-CSharp.dll
+
+# Packaging artifacts and releases
+thunderstore_package/
+MagicBullet-*.zip
+*.zip
+*.tar.gz
+*.7z
+
+# Logs and runtime configs
+*.log
+*.cfg
+*.tmp
+*.temp
+*.swp
+*~
+
+# IDE / Editor folders and user files
+.vs/
+.idea/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Mod manager / game profiles
+profiles/
