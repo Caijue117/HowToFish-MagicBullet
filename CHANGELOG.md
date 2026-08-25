@@ -2,15 +2,18 @@
 
 ## 1.2.2 - 2026-08-25
 
-### Fixed
-- Corrected files accidentally included in the previous release.
-- Updated the release package with the intended documentation and assets.
+### Changed
+- Moved gameplay preview GIFs to external hosting to reduce the Thunderstore package size.
+- Improved README preview presentation.
+
+### Notes
+- No gameplay behavior changes in this release.
 
 ## 1.2.1 - 2026-08-25
 
-### Changed
-- Re-verified compatibility and refreshed local references against the latest *How to Fish* game update.
-- Updated and refined documentation with aligned bilingual instructions and controls.
+- Verified compatibility with the latest *How to Fish* update.
+- Added gameplay preview documentation.
+- Superseded by v1.2.2 for package-size cleanup.
 
 ## 1.2.0 - 2026-08-24
 

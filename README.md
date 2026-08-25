@@ -7,6 +7,14 @@ Magic Bullet redirects projectile velocity toward valid creature targets in real
 > This mod was researched, developed, and packaged with AI assistance.  
 > 本 Mod 的逆向分析、代码实现与打包流程由 AI 辅助完成。
 
+## Gameplay Preview
+
+### Moving Target Tracking / 移动目标追踪
+![Moving Target Tracking](https://raw.githubusercontent.com/Caijue117/HowToFish-MagicBullet/main/assets/moving-target-preview.gif)
+
+### Albatross Targeting / 信天翁目标锁定
+![Albatross Targeting](https://raw.githubusercontent.com/Caijue117/HowToFish-MagicBullet/main/assets/albatross-preview.gif)
+
 ## Features
 
 - **Silent Aim** — Redirects real projectile velocity without camera snapping or view lock.
