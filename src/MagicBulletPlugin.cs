@@ -9,7 +9,7 @@ namespace HowToFishMagicBullet
     {
         public const string PluginGuid = "com.openai.howtofish.magicbullet";
         public const string PluginName = "How To Fish - Magic Bullet";
-        public const string PluginVersion = "1.2.0";
+        public const string PluginVersion = "1.2.2";
 
         internal static MagicBulletPlugin Instance;
         private Harmony _harmony;
