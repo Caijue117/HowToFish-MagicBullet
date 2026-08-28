@@ -1,13 +1,19 @@
 # Changelog
 
-## 1.2.2 - 2026-08-25
+## 1.2.3 - 2026-08-28
 
 ### Changed
-- Moved gameplay preview GIFs to external hosting to reduce the Thunderstore package size.
-- Improved README preview presentation.
+- Updated and rebuilt MagicBullet against the latest *How to Fish* 1.0.10 game assemblies.
+- Updated compatibility for the current game build.
 
 ### Notes
 - No gameplay behavior changes in this release.
+
+## 1.2.2 - 2026-08-25
+
+### Fixed
+- Corrected files accidentally included in the previous release.
+- Updated the release package with the intended documentation and assets.
 
 ## 1.2.1 - 2026-08-25
 

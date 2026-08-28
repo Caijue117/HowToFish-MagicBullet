@@ -18,6 +18,11 @@ MagicBullet-*.zip
 manifest.json
 icon.png
 
+# Media assets (hosted externally)
+assets/
+*.gif
+*.mp4
+
 # Logs and runtime configs
 *.log
 *.cfg
